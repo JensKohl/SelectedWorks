@@ -1,3 +1,10 @@
+---
+layout: default
+title: Selected Work | Jens Kohl, PhD
+permalink: /selected-works/
+---
+
+
 # <p align="center">Selected Work | Jens Kohl, PhD</p>
 ## <p align="center"> Building large-scale AI agents and ML solutions at BMW Group  </p>
 
@@ -17,7 +24,7 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 
 | **Strategic Pillar** | **Foundational AI Reliability** | **Enterprise Cloud Operations** |
 | :--- | :--- | :--- |
-| **Innovation Strategy** | [**Structural testing of LLM-based agents**](#structural-testing-for-llm-based-agents)<br>One of the first frameworks enabling unit- and integration-level testing of LLM-based agents, adopted within a BMW GenAI platform.<br>Publication: [IEEE Paper](docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf) \| Source: [GitHub](https://github.com/awslabs/generative-ai-toolkit) | [**GenAI cloud optimization bot**](#generative-ai-based-cloud-assistant)<br>Optimizing cloud accounts at scale via LLM-based multi-agent system.<br>Video: [re:Invent Talk](https://youtu.be/1Lat8dP7Eq0?si=V6DHfae2EGjnYsGt&t=2458) \| Publication: [AWS blog](https://aws.amazon.com/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/) \| Additional reach: [Facebook (~2M views)](https://www.facebook.com/amazonwebservices/videos/1126783061768882) |
+| **Innovation Strategy** | [**Structural testing of LLM-based agents**](#structural-testing-for-llm-based-agents)<br>One of the first frameworks enabling unit- and integration-level testing of LLM-based agents, adopted within a BMW GenAI platform.<br>Publication: [IEEE Paper](assets/docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf) \| Source: [GitHub](https://github.com/awslabs/generative-ai-toolkit) | [**GenAI cloud optimization bot**](#generative-ai-based-cloud-assistant)<br>Optimizing cloud accounts at scale via LLM-based multi-agent system.<br>Video: [re:Invent Talk](https://youtu.be/1Lat8dP7Eq0?si=V6DHfae2EGjnYsGt&t=2458) \| Publication: [AWS blog](https://aws.amazon.com/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/) \| Additional reach: [Facebook (~2M views)](https://www.facebook.com/amazonwebservices/videos/1126783061768882) |
 | **Platform Engineering** | [**Generative AI toolkit**](#generative-ai-toolkit)<br>Lead architect for open-source LLM lifecycle automation.<br>Publication: [arXiv](https://arxiv.org/abs/2412.14215) \| Source: [GitHub](https://github.com/awslabs/generative-ai-toolkit) | [**Scaling end-to-end cloud governance**](#scaling-cloud-governance)<br>Automating compliance for a cloud backend for 23M vehicles with 1,300+ services.<br>Publication: [AWS Blog](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/)|
 
 
@@ -28,7 +35,7 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 
 <a id="structural-testing-for-llm-based-agents"></a>
 ### Structural testing for LLM-based agents
-**2025** | Publication: [**IEEE Paper**](docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf), Source code: [**GitHub Repo**](https://github.com/awslabs/generative-ai-toolkit)
+**2025** | Publication: [**IEEE Paper**](assets/docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf), Source code: [**GitHub Repo**](https://github.com/awslabs/generative-ai-toolkit)
 > Framework enabling unit- and integration-level testing of LLM-based agents beyond acceptance tests. Combining OpenTelemetry-based tracing with automated verification and mocking of agent components (including LLM) to enable software engineering best practices (TDD, Regression testing) for GenAI. **I ideated the overall approach and contributed to the core implementation.**
 
 <a id="generative-ai-toolkit"></a>
@@ -89,24 +96,24 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 
 You can also check my [Google Scholar account](https://scholar.google.com/citations?user=M3vi8zEAAAAJ&hl=de).
 
-1. **J. Kohl, O. Kruse, Y. Mostafa, A. Luckow, K. Schroer, T. Riedl, R. French, D. Katz, M. Luitz, T. Takher, K. Friedl, C. Laurent-Winter**: Automated structural testing of LLM-based agents: methods, framework, and case studies. *Proceedings of the IEEE Big Data Conference 2025*, pp. 1847-1856, 2025. [Link](docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf).
-2. **I. Drave, B. Rumpe, A. Wortmann, J. Berroth, G. Hoepfner, G. Jacobs, K. Spuetz, T. Zerwas, C. Guist and J. Kohl**: Modeling mechanical functional architectures in SysML. In *Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems*, pages 79–89, 2020. [Link](docs/2020%20Modeling-Mechanical-Functional-Architectures-in-SysML.pdf).
+1. **J. Kohl, O. Kruse, Y. Mostafa, A. Luckow, K. Schroer, T. Riedl, R. French, D. Katz, M. Luitz, T. Takher, K. Friedl, C. Laurent-Winter**: Automated structural testing of LLM-based agents: methods, framework, and case studies. *Proceedings of the IEEE Big Data Conference 2025*, pp. 1847-1856, 2025. [Link](assets/docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf).
+2. **I. Drave, B. Rumpe, A. Wortmann, J. Berroth, G. Hoepfner, G. Jacobs, K. Spuetz, T. Zerwas, C. Guist and J. Kohl**: Modeling mechanical functional architectures in SysML. In *Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems*, pages 79–89, 2020. [Link](assets/docs/2020%20Modeling-Mechanical-Functional-Architectures-in-SysML.pdf).
 3. **J. Wildgruber, J. Kohl, T. Bindel, L. Gloger, T. Takher, O. Kruse, H. Vu, A. Krisnan, S. Saxena, K. Robins**: Innovating at speed: BMW's Generative AI solution for cloud incident analysis, 2025. [Link](https://aws.amazon.com/blogs/machine-learning/innovating-at-speed-bmws-generative-ai-solution-for-cloud-incident-analysis/).
 
 <details>
 <summary><b>All publications</b></summary>
 
 ### Peer-reviewed publications
-1. **J. Kohl, O. Kruse, Y. Mostafa, A. Luckow, K. Schroer, T. Riedl, R. French, D. Katz, M. Luitz, T. Takher, K. Friedl, C. Laurent-Winter**: Automated structural testing of LLM-based agents: methods, framework, and case studies. *Proceedings of the IEEE Big Data Conference 2025*, pp. 1847-1856, 2025. [Link](docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf).
+1. **J. Kohl, O. Kruse, Y. Mostafa, A. Luckow, K. Schroer, T. Riedl, R. French, D. Katz, M. Luitz, T. Takher, K. Friedl, C. Laurent-Winter**: Automated structural testing of LLM-based agents: methods, framework, and case studies. *Proceedings of the IEEE Big Data Conference 2025*, pp. 1847-1856, 2025. [Link](assets/docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf).
 2. **T. Zerwas, G. Jacobs, L. Brand, S. Dehn, K. Spütz, G. Höpfner, C. Matz, C. Guist, J. Berroth, C. Konrad, J. Kohl**: Customer-centric and function-oriented development of mechatronic systems. In *Forschung im Ingenieurwesen*, 2023. [Link](https://link.springer.com/article/10.1007/s10010-023-00658-7).
 3. **G. Höpfner, I. Nachmann, T. Zerwas, J. Berroth, J. Kohl, C. Guist, B. Rumpe, G. Jacobs**: Towards a Holistic and Functional Model-Based Design Method for Mechatronic Cyber-Physical Systems. In *Journal of Mechanical Design*, 2023. [Link](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/doi/10.1115/1.4056807/1156489/Towards-a-Holistic-and-Functional-Model-Based).
-4. **G. Höpfner, G. Jacobs, T. Zerwas, I. Drave, J. Berroth, C. Guist, B. Rumpe and J. Kohl**: Model-based design workflows for cyber-physical systems applied to an electric-mechanical coolant pump. In *IOP Conference Series: Materials Science and Engineering*, volume 1097, page 012004. IOP Publishing, 2021. [Link](docs/2021%20Model-Based%20Design%20Workflows%20for%20Cyber-Physical%20Systems%20Applied%20to%20an%20Electric-Mechanical%20Coolant%20Pump.pdf).
-5. **T. Zerwas, G. Jacobs, K. Spütz, G. Höpfner, I. Drave, J. Berroth, C. Guist, C. Konrad, B. Rumpe and J. Kohl**: Mechanical concept development using principle solution models. In *IOP Conference Series: Materials Science and Engineering*, volume 1097, page 012001. IOP Publishing, 2021. [Link](docs/2021%20Mechanical%20concept%20development%20using%20principle%20solution%20models.pdf).
-6. **I. Drave, B. Rumpe, A. Wortmann, J. Berroth, G. Hoepfner, G. Jacobs, K. Spuetz, T. Zerwas, C. Guist and J. Kohl**: Modeling mechanical functional architectures in SysML. In *Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems*, pages 79–89, 2020. [Link](docs/2020%20Modeling-Mechanical-Functional-Architectures-in-SysML.pdf).
-7. **I. Krüger, M. Menarini, F. Seracini, M. Fuchs and J. Kohl**: Improving the development process for automotive diagnostics. In *2012 International Conference on Software and System Process (ICSSP)*, pages 63–67. IEEE, 2012. [Link](docs/2012%20Improving%20Development%20Process%20for%20Automotive%20Diagnostics.pdf).
+4. **G. Höpfner, G. Jacobs, T. Zerwas, I. Drave, J. Berroth, C. Guist, B. Rumpe and J. Kohl**: Model-based design workflows for cyber-physical systems applied to an electric-mechanical coolant pump. In *IOP Conference Series: Materials Science and Engineering*, volume 1097, page 012004. IOP Publishing, 2021. [Link](assets/docs/2021%20Model-Based%20Design%20Workflows%20for%20Cyber-Physical%20Systems%20Applied%20to%20an%20Electric-Mechanical%20Coolant%20Pump.pdf).
+5. **T. Zerwas, G. Jacobs, K. Spütz, G. Höpfner, I. Drave, J. Berroth, C. Guist, C. Konrad, B. Rumpe and J. Kohl**: Mechanical concept development using principle solution models. In *IOP Conference Series: Materials Science and Engineering*, volume 1097, page 012001. IOP Publishing, 2021. [Link](assets/docs/2021%20Mechanical%20concept%20development%20using%20principle%20solution%20models.pdf).
+6. **I. Drave, B. Rumpe, A. Wortmann, J. Berroth, G. Hoepfner, G. Jacobs, K. Spuetz, T. Zerwas, C. Guist and J. Kohl**: Modeling mechanical functional architectures in SysML. In *Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems*, pages 79–89, 2020. [Link](assets/docs/2020%20Modeling-Mechanical-Functional-Architectures-in-SysML.pdf).
+7. **I. Krüger, M. Menarini, F. Seracini, M. Fuchs and J. Kohl**: Improving the development process for automotive diagnostics. In *2012 International Conference on Software and System Process (ICSSP)*, pages 63–67. IEEE, 2012. [Link](assets/docs/2012%20Improving%20Development%20Process%20for%20Automotive%20Diagnostics.pdf).
 8. **J. Kohl**: Effiziente Diagnose von verteilten Funktionen automobiler Steuergeräte. *PhD thesis, Technische Universität München*, 2012. [Link](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf).
-9. **J. Kohl, A. Kotucz, J. Prenninger, A. Dorneich and S. Meinzer**: Using multivariate split analysis for an improved maintenance of automotive diagnosis functions. In *15th European Conference on Software Maintenance and Reengineering*, pages 305–308. IEEE, 2011. [Link](docs/2011%20Using%20multivariate%20split%20analysis%20for%20an%20improved%20maintenance%20of%20automotive%20diagnosis%20functions.pdf).
-10. **J. Kohl and A. Bauer**: Role-based diagnosis for distributed vehicle functions. In *Proceedings of the 21st International Workshop on the Principles of Diagnosis (DX)*, 2010. [Link](docs/2010%20Role-Based%20Diagnosis%20for%20Distributed%20Vehicle%20Functions.pdf).
+9. **J. Kohl, A. Kotucz, J. Prenninger, A. Dorneich and S. Meinzer**: Using multivariate split analysis for an improved maintenance of automotive diagnosis functions. In *15th European Conference on Software Maintenance and Reengineering*, pages 305–308. IEEE, 2011. [Link](assets/docs/2011%20Using%20multivariate%20split%20analysis%20for%20an%20improved%20maintenance%20of%20automotive%20diagnosis%20functions.pdf).
+10. **J. Kohl and A. Bauer**: Role-based diagnosis for distributed vehicle functions. In *Proceedings of the 21st International Workshop on the Principles of Diagnosis (DX)*, 2010. [Link](assets/docs/2010%20Role-Based%20Diagnosis%20for%20Distributed%20Vehicle%20Functions.pdf).
 
 ### Non-peer reviewed publications
 1. **M. Menzel, J. Kohl**: BMW uses Vertex AI to automate building, optimization and evaluation of automotive small-language-models (SLMs), 2025. In publication.
