@@ -16,8 +16,8 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 ## 🏆 Featured Highlights
 | **Strategic Pillar** | **Foundational AI Reliability** | **Enterprise Cloud Operations** |
 | :--- | :--- | :--- |
-| **Innovation Strategy** | [**Structural testing of LLM-based agents**](#structural-testing-for-llm-based-agents) <br> One of the first frameworks enabling unit- and <br> integration-level testing of LLM-based agents, <br> adopted within a BMW GenAI platform <br> Publication: [IEEE Paper](#-selected-publications) \| Source: [GitHub](https://github.com/awslabs/generative-ai-toolkit) | [**GenAI Cloud Optimization Bot**](#generative-ai-based-cloud-assistant) <br> Optimizing cloud accounts at scale via multi-agent system. <br> Video: [re:Invent Talk](https://youtu.be/1Lat8dP7Eq0?si=V6DHfae2EGjnYsGt&t=2458) \| [Additional reach: Facebook (~2M views)](https://www.facebook.com/amazonwebservices/videos/1126783061768882) |
-| **Platform Engineering** | [**GenAI Toolkit**](#generative-ai-toolkit) <br> Lead architect for open-source LLM lifecycle automation. <br> Publication: [arXiv](https://arxiv.org/abs/2412.14215) \| Source: [GitHub](https://github.com/awslabs/generative-ai-toolkit) | [**Scaling Cloud Governance**](#scaling-cloud-governance) <br> Automating compliance for a cloud backend for 23M vehicles with 1,300+ services. <br> Publication: [AWS Blog](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/)|
+| **Innovation Strategy** | [**Structural testing of LLM-based agents**](#structural-testing-for-llm-based-agents) <br> One of the first frameworks enabling unit- and <br> integration-level testing of LLM-based agents, <br> adopted within a BMW GenAI platform <br> Publication: [IEEE Paper](docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf) \| Source: [GitHub](https://github.com/awslabs/generative-ai-toolkit) | [**GenAI cloud optimization bot**](#generative-ai-based-cloud-assistant) <br> Optimizing cloud accounts at scale via LLM-based multi-agent system. <br> Video: [re:Invent Talk](https://youtu.be/1Lat8dP7Eq0?si=V6DHfae2EGjnYsGt&t=2458) \| Publication: [AWS blog](https://aws.amazon.com/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/) \| Additional reach: [Facebook (~2M views)](https://www.facebook.com/amazonwebservices/videos/1126783061768882) |
+| **Platform Engineering** | [**Generative AI toolkit**](#generative-ai-toolkit) <br> Lead architect for open-source LLM lifecycle automation. <br> Publication: [arXiv](https://arxiv.org/abs/2412.14215) \| Source: [GitHub](https://github.com/awslabs/generative-ai-toolkit) | [**Scaling end-to-end cloud governance**](#scaling-cloud-governance) <br> Automating compliance for a cloud backend for 23M vehicles with 1,300+ services. <br> Publication: [AWS Blog](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/)|
 
 ---
 <a id="-selected-projects"></a>
@@ -35,7 +35,7 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 
 
 <a id="generative-ai-based-cloud-assistant"></a>
-### Generative AI based cloud assistant
+### Cloud Optimization Bot
 **2023** | [**Video**](https://youtu.be/1Lat8dP7Eq0?si=V6DHfae2EGjnYsGt&t=2458), [**Facebook**](https://www.facebook.com/amazonwebservices/videos/1126783061768882) (Reach: ~2M Views)
 > One of the earliest LLM-based multi-agent systems. Built on Amazon Bedrock to optimize cloud infrastructure delivering eight-digit annual operational savings. **I ideated and co-designed the system and served as the Technical Owner leading the development.**
 
