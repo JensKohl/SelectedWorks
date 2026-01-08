@@ -1,6 +1,5 @@
 ---
 title: Selected Work | Jens Kohl, PhD
-permalink: /selected-works/
 ---
 
 
