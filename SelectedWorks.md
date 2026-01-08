@@ -25,27 +25,26 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 
 <a id="structural-testing-for-llm-based-agents"></a>
 ### Structural testing for LLM-based agents
-**2025** | [**IEEE Paper**](#-selected-publications), [**GitHub Repo**](https://github.com/awslabs/generative-ai-toolkit)
+**2025** | Publication: [**IEEE Paper**](docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf), Source code: [**GitHub Repo**](https://github.com/awslabs/generative-ai-toolkit)
 > Framework enabling unit- and integration-level testing of LLM-based agents beyond acceptance tests. Combining OpenTelemetry-based tracing with automated verification and mocking of agent components (including LLM) to enable software engineering best practices (TDD, Regression testing) for GenAI. **I ideated the overall approach and contributed to the core implementation.**
 
 <a id="generative-ai-toolkit"></a>
 ### Generative AI toolkit
-**2024** | [**GitHub Repo**](https://github.com/awslabs/generative-ai-toolkit), [**Publication**](https://arxiv.org/abs/2412.14215)
+**2024** | Publication: [**arXiv**](https://arxiv.org/abs/2412.14215), Source code: [**GitHub Repo**](https://github.com/awslabs/generative-ai-toolkit)
 > Open-source framework that automates core workflows across the lifecycle of LLM-based applications—configuration, testing, monitoring, and optimization. **I ideated and co-designed the toolkit and served as technical owner for its development.**
-
 
 <a id="generative-ai-based-cloud-assistant"></a>
 ### Cloud Optimization Bot
-**2023** | [**Video**](https://youtu.be/1Lat8dP7Eq0?si=V6DHfae2EGjnYsGt&t=2458), [**Facebook**](https://www.facebook.com/amazonwebservices/videos/1126783061768882) (Reach: ~2M Views)
+**2023** | Publication: [AWS blog](https://aws.amazon.com/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/), Video: [**AWS re:invent Innovation talk 2023**](https://youtu.be/1Lat8dP7Eq0?si=V6DHfae2EGjnYsGt&t=2458), additional reach: [**Facebook (~2 M views**](https://www.facebook.com/amazonwebservices/videos/1126783061768882)
 > One of the earliest LLM-based multi-agent systems. Built on Amazon Bedrock to optimize cloud infrastructure delivering eight-digit annual operational savings. **I ideated and co-designed the system and served as the Technical Owner leading the development.**
 
 <a id="scaling-cloud-governance"></a>
 ### Scaling end-to-end cloud governance
-**2023** | [**Video**](https://youtu.be/nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332), [**Blog**](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/)
+**2023** | Publication: [**AWS Blog**](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/), Video: [**AWS re:invent 2023**](https://youtu.be/nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332), 
 > Automated compliance framework enforcing internal standards across hundreds of AWS accounts at scale. **I ideated the framework, co-led the project, and contributed directly to the development.**
 
 ### Proactive Care
-**2022** | [**Video**](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s)
+**2022** | Video: [**AWS re:invent 2022**](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s)
 > Led a cross-functional prototyping team delivering an end-to-end automotive diagnosis workflow at scale (1M vehicles). Later rolled out fleet-wide to 23M vehicles by BMW aftersales organization.
 
 <details>
@@ -53,21 +52,21 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 
 <a id="scaling-RCA"></a>
 ### Speeding up cloud incident root cause analysis
-**2025** | [**AWS Blog**](https://aws.amazon.com/blogs/machine-learning/innovating-at-speed-bmws-generative-ai-solution-for-cloud-incident-analysis/)
+**2025** | Publication: [**AWS Blog**](https://aws.amazon.com/blogs/machine-learning/innovating-at-speed-bmws-generative-ai-solution-for-cloud-incident-analysis/)
 > Designed and built an LLM-based agent with Amazon Bedrock to automate incident root-cause analysis across distributed cloud services. Reduces diagnosis time from hours to minutes with ~85% accuracy. **I ideated the solution and co-led its development.**
 
 ### Ticketron
-**2024** | [**Video**](https://www.youtube.com/watch?v=ScTLkWMKfIs)
+**2024** | Video: [**AWS re:invent 2024**](https://www.youtube.com/watch?v=ScTLkWMKfIs)
 > Streamlining defect ticket workflows using ML for duplicate detection and automated routing. Reduced manual triage effort and accelerated the software development lifecycle. **I served as the technical lead for its development and integration.**
 
 ### Headunit in the cloud (vECU)
-**2023** | [**AWS Blog**](https://aws.amazon.com/de/blogs/industries/how-bmw-uses-aws-to-scale-and-automate-sdv-with-virtual-ecus/)
+**2023** | Publication: [**AWS Blog**](https://aws.amazon.com/de/blogs/industries/how-bmw-uses-aws-to-scale-and-automate-sdv-with-virtual-ecus/)
 > Virtualization of automotive Android control units on cloud instances to scale testing for 20M+ vehicles. **I led the responsible BMW team, providing strategic guidance and architectural oversight.**
 
 
 ### Cloud migration of BMW ConnectedDrive
-**2023** | [**AWS Blog**](https://aws.amazon.com/de/blogs/migration-and-modernization/accelerating-to-the-cloud-bmw-connecteddrives-migration-to-aws-and-lessons-for-the-road-ahead/)
-> One of the largest and earliest successful migrations of an automotive OEM to the cloud. For two years, I led the team responsible for cloud architecture, architectural standards, and the migration initiative covering over 1,300 microservices. 
+**2023** | Publication: [**AWS Blog**](https://aws.amazon.com/de/blogs/migration-and-modernization/accelerating-to-the-cloud-bmw-connecteddrives-migration-to-aws-and-lessons-for-the-road-ahead/)
+> One of the largest and earliest successful migrations of an automotive OEM to the cloud. For two years, I led the team responsible for cloud architecture, architectural standards, and the migration initiative covering over 1,300 microservices.
 
 ### Lecturer, Artificial Intelligence
 **2020 – Present** | [**Course Materials**](https://github.com/JensKohl/Lecture-Technical_Applications_Data_Management-Slides_and_Notebooks)
@@ -89,7 +88,7 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 
 1. **J. Kohl, O. Kruse, Y. Mostafa, A. Luckow, K. Schroer, T. Riedl, R. French, D. Katz, M. Luitz, T. Takher, K. Friedl, C. Laurent-Winter**: Automated structural testing of LLM-based agents: methods, framework, and case studies. *Proceedings of the IEEE Big Data Conference 2025*, pp. 1847-1856, 2025. [Link](docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf).
 2. **I. Drave, B. Rumpe, A. Wortmann, J. Berroth, G. Hoepfner, G. Jacobs, K. Spuetz, T. Zerwas, C. Guist and J. Kohl**: Modeling mechanical functional architectures in SysML. In *Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems*, pages 79–89, 2020. [Link](docs/2020%20Modeling-Mechanical-Functional-Architectures-in-SysML.pdf).
-3. **J. Wildgruber, J. Kohl, T. Bindel, L. Gloger, T. Takher, O. Kruse, H. Vu, A. Krisnan, S. Saxena, K. Robins**: Innovating at speed: BMW's Generative AI solution for cloud incident analysis, 2025. [AWS Blog](https://aws.amazon.com/blogs/machine-learning/innovating-at-speed-bmws-generative-ai-solution-for-cloud-incident-analysis/).
+3. **J. Wildgruber, J. Kohl, T. Bindel, L. Gloger, T. Takher, O. Kruse, H. Vu, A. Krisnan, S. Saxena, K. Robins**: Innovating at speed: BMW's Generative AI solution for cloud incident analysis, 2025. [Link](https://aws.amazon.com/blogs/machine-learning/innovating-at-speed-bmws-generative-ai-solution-for-cloud-incident-analysis/).
 
 <details>
 <summary><b>All publications</b></summary>
@@ -138,9 +137,9 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 
 ## 📜 Patents
 <a id="-patents"></a>
-1. **2025:** Method and System for Migrating Software between cloud systems. [DPMA](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020241132183).
-2. **2021:** Reinforcement Learning for ICE control. [DPMA](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020211139821).
-3. **2019:** Additive Manufacturing processes. [DPMA](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020191344468).
+1. **A. Ganser, J. Kohl**: Method and System for Migrating Software between cloud systems, 2025. Link: [German patent library DPMA](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020241132183).
+2. **P. Tiefenbacher, T. Billinger, J. Kohl**: Method for operating a motor vehicle comprising an internal combustion engine, control unit and motor vehicle, 2021. Link: [German patent library DPMA](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020211139821).
+3. **C. Guist, J. Kohl**: Method for providing a component using additive manufacturing, 2019. Link: [German patent library DPMA](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020191344468).
 
 *Note: 14 additional GenAI patents pending.*
 
