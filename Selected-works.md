@@ -5,8 +5,8 @@ permalink: /selected-works/
 ---
 
 
-# <p align="center">Selected Work | Jens Kohl, PhD</p>
-## <p align="center"> Building large-scale AI agents and ML solutions at BMW Group  </p>
+# Selected Work | Jens Kohl, PhD
+## Building large-scale AI agents and ML solutions at BMW Group
 
 This page provides deeper technical context on selected AI, GenAI, and cloud projects I’ve led and contributed to.
 
