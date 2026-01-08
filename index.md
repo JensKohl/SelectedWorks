@@ -26,7 +26,6 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 
 
 
----
 
 <a id="-selected-projects"></a>
 ## 🛠 Selected Projects
@@ -77,7 +76,7 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 
 ### Cloud migration of BMW ConnectedDrive
 **2023** | Publication: [**AWS Blog**](https://aws.amazon.com/de/blogs/migration-and-modernization/accelerating-to-the-cloud-bmw-connecteddrives-migration-to-aws-and-lessons-for-the-road-ahead/)
-> One of the largest and earliest successful migrations of an automotive OEM to the cloud. For two years, I led the team responsible for cloud architecture, architectural standards, and the migration initiative covering over 1,300 microservices.
+> One of the largest and earliest successful migrations of an automotive OEM to the cloud. For two years, **I led the team responsible for cloud architecture, architectural standards, and the migration initiative** covering over 1,300 microservices.
 
 ### Lecturer, Artificial Intelligence
 **2020 – Present** | [**Course Materials**](https://github.com/JensKohl/Lecture-Technical_Applications_Data_Management-Slides_and_Notebooks)
@@ -91,17 +90,18 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 **2004**
 > Developed a code-signing tool in C/C++ for the M5 ECU and designed a Hardware-in-the-Loop (HiL) test unit to validate electronic throttle control reliability. **I was a tool developer in this team.**
 
-<br>
 </div>
 </details>
 
 <br>
----
+
+
 
 ## 📝 Publications
 <a id="-selected-publications"></a>
 
 You can also check my [Google Scholar account](https://scholar.google.com/citations?user=M3vi8zEAAAAJ&hl=de).
+
 
 1. **J. Kohl, O. Kruse, Y. Mostafa, A. Luckow, K. Schroer, T. Riedl, R. French, D. Katz, M. Luitz, T. Takher, K. Friedl, C. Laurent-Winter**: Automated structural testing of LLM-based agents: methods, framework, and case studies. *Proceedings of the IEEE Big Data Conference 2025*, pp. 1847-1856, 2025. [Link](assets/docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf).
 2. **I. Drave, B. Rumpe, A. Wortmann, J. Berroth, G. Hoepfner, G. Jacobs, K. Spuetz, T. Zerwas, C. Guist and J. Kohl**: Modeling mechanical functional architectures in SysML. In *Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems*, pages 79–89, 2020. [Link](assets/docs/2020%20Modeling-Mechanical-Functional-Architectures-in-SysML.pdf).
@@ -137,9 +137,9 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 <br>
 </div>
 </details>
-<br>
 
----
+
+<br>
 
 ## 🎤 Public Talks
 <a id="-public-talks"></a>
@@ -162,11 +162,12 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 10. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. *AWS re:invent 2022*. [Video](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
 11. **J. Kohl**: Vision for Engineering Workplace 2025. *4th International IPS Cable Simulation Conference 2019*.
 
+<br>
 </div>
 </details>
 
 ---
-
+<br>
 ## 📜 Patents
 <a id="-patents"></a>
 
@@ -175,6 +176,8 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 3. **C. Guist, J. Kohl**: Method for providing a component using additive manufacturing, 2019. Link: [German patent library DPMA](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020191344468).
 
 *Note: 14 additional GenAI patents pending.*
+
+<br>
 
 ---
 
