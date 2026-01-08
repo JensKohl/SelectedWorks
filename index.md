@@ -31,7 +31,7 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 
 ---
 <a id="-selected-projects"></a>
-## 🛠 Selected Projects 
+## 🛠 Selected Projects
 
 <a id="structural-testing-for-llm-based-agents"></a>
 ### Structural testing for LLM-based agents
