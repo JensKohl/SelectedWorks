@@ -1,5 +1,6 @@
 ---
 title: Selected Work | Jens Kohl, PhD
+layout: default
 ---
 
 ## Building large-scale AI agents and ML solutions at BMW Group
