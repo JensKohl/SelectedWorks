@@ -9,13 +9,11 @@ This page provides deeper technical context on selected AI, GenAI, and cloud pro
 
 ## About me
 
-
 I am an engineering leader driving cloud platforms and large-scale AI/GenAI and ML systems. I have over two decades of industry experience, including more than a decade leading cross-functional teams on high-impact AI, cloud, and strategic initiatives. At **BMW Group**, the machine learning teams I built and led developed features and models interacting with **millions of vehicles**.
 
 My career has evolved from writing **real-time embedded C++** for Superbike racing teams to architecting **enterprise-scale Generative AI** solutions. Currently, I lead teams building **LLM-based agents** at the BMW Group, using GenAI to optimize developer productivity and the Connected Vehicle backend serving **23M vehicles**. I combine hands-on system design with end-to-end technical ownership.
 
 I also enjoy teaching a Master’s course in **Analytics and AI** for economics students at <a href="https://www.hs-fresenius.com/location/munich/">Fresenius University Munich</a>.
-
 
 ## 🏆 Featured Highlights
 
@@ -23,8 +21,6 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 | :--- | :--- | :--- |
 | **Innovation Strategy** | [**Structural testing of LLM-based agents**](#structural-testing-for-llm-based-agents)<br>One of the first frameworks enabling unit- and integration-level testing of LLM-based agents, adopted within a BMW GenAI platform.<br>Publication: [IEEE Paper](assets/docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf) \| Source: [GitHub](https://github.com/awslabs/generative-ai-toolkit) | [**GenAI cloud optimization bot**](#generative-ai-based-cloud-assistant)<br>Optimizing cloud accounts at scale via LLM-based multi-agent system.<br>Video: [re:Invent Talk](https://youtu.be/1Lat8dP7Eq0?si=V6DHfae2EGjnYsGt&t=2458) \| Publication: [AWS blog](https://aws.amazon.com/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/) \| Additional reach: [Facebook (~2M views)](https://www.facebook.com/amazonwebservices/videos/1126783061768882) |
 | **Platform Engineering** | [**Generative AI toolkit**](#generative-ai-toolkit)<br>Lead architect for open-source LLM lifecycle automation.<br>Publication: [arXiv](https://arxiv.org/abs/2412.14215) \| Source: [GitHub](https://github.com/awslabs/generative-ai-toolkit) | [**Scaling end-to-end cloud governance**](#scaling-cloud-governance)<br>Automating compliance for a cloud backend for 23M vehicles with 1,300+ services.<br>Publication: [AWS Blog](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/)|
-
-
 
 ---
 
@@ -48,7 +44,7 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 
 <a id="scaling-cloud-governance"></a>
 ### Scaling end-to-end cloud governance
-**2023** | Publication: [**AWS Blog**](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/), Video: [**AWS re:invent 2023**](https://youtu.be/nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332), 
+**2023** | Publication: [**AWS Blog**](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/), Video: [**AWS re:invent 2023**](https://youtu.be/nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332)
 > Automated compliance framework enforcing internal standards across hundreds of AWS accounts at scale. **I ideated the framework, co-led the project, and contributed directly to the development.**
 
 ### Proactive Care
@@ -56,12 +52,7 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 > Led a cross-functional prototyping team delivering an end-to-end automotive diagnosis workflow at scale (1M vehicles). Later rolled out fleet-wide to 23M vehicles by BMW aftersales organization.
 
 <details>
-
-<summary>
-
-<b>View more projects ...</b>
-
-</summary>
+<summary><b>View more projects ...</b></summary>
 
 <a id="scaling-RCA"></a>
 ### Speeding up cloud incident root cause analysis
@@ -75,7 +66,6 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 ### Headunit in the cloud (vECU)
 **2023** | Publication: [**AWS Blog**](https://aws.amazon.com/de/blogs/industries/how-bmw-uses-aws-to-scale-and-automate-sdv-with-virtual-ecus/)
 > Virtualization of automotive Android control units on cloud instances to scale testing for 20M+ vehicles. **I led the responsible BMW team, providing strategic guidance and architectural oversight.**
-
 
 ### Cloud migration of BMW ConnectedDrive
 **2023** | Publication: [**AWS Blog**](https://aws.amazon.com/de/blogs/migration-and-modernization/accelerating-to-the-cloud-bmw-connecteddrives-migration-to-aws-and-lessons-for-the-road-ahead/)
@@ -93,36 +83,23 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 **2004**
 > Developed a code-signing tool in C/C++ for the M5 ECU and designed a Hardware-in-the-Loop (HiL) test unit to validate electronic throttle control reliability. **I was a tool developer in this team.**
 
-<br>
 </details>
-
 
 ---
 
 ## 📝 Publications
 <a id="-selected-publications"></a>
+<br>
 
 You can also check my [Google Scholar account](https://scholar.google.com/citations?user=M3vi8zEAAAAJ&hl=de).
-
-1. **J. Kohl, O. Kruse, Y. Mostafa, A. Luckow, K. Schroer, T. Riedl, R. French, D. Katz, M. Luitz, T. Takher, K. Friedl, C. Laurent-Winter**: Automated structural testing of LLM-based agents: methods, framework, and case studies. *Proceedings of the IEEE Big Data Conference 2025*, pp. 1847-1856, 2025. [Link](assets/docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf).
-2. **I. Drave, B. Rumpe, A. Wortmann, J. Berroth, G. Hoepfner, G. Jacobs, K. Spuetz, T. Zerwas, C. Guist and J. Kohl**: Modeling mechanical functional architectures in SysML. In *Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems*, pages 79–89, 2020. [Link](assets/docs/2020%20Modeling-Mechanical-Functional-Architectures-in-SysML.pdf).
-3. **J. Wildgruber, J. Kohl, T. Bindel, L. Gloger, T. Takher, O. Kruse, H. Vu, A. Krisnan, S. Saxena, K. Robins**: Innovating at speed: BMW's Generative AI solution for cloud incident analysis, 2025. [Link](https://aws.amazon.com/blogs/machine-learning/innovating-at-speed-bmws-generative-ai-solution-for-cloud-incident-analysis/).
 
 <details>
 <summary><b>All publications</b></summary>
 
 ### Peer-reviewed publications
-
 1. **J. Kohl, O. Kruse, Y. Mostafa, A. Luckow, K. Schroer, T. Riedl, R. French, D. Katz, M. Luitz, T. Takher, K. Friedl, C. Laurent-Winter**: Automated structural testing of LLM-based agents: methods, framework, and case studies. *Proceedings of the IEEE Big Data Conference 2025*, pp. 1847-1856, 2025. [Link](assets/docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf).
-2. **T. Zerwas, G. Jacobs, L. Brand, S. Dehn, K. Spütz, G. Höpfner, C. Matz, C. Guist, J. Berroth, C. Konrad, J. Kohl**: Customer-centric and function-oriented development of mechatronic systems. In *Forschung im Ingenieurwesen*, 2023. [Link](https://link.springer.com/article/10.1007/s10010-023-00658-7).
-3. **G. Höpfner, I. Nachmann, T. Zerwas, J. Berroth, J. Kohl, C. Guist, B. Rumpe, G. Jacobs**: Towards a Holistic and Functional Model-Based Design Method for Mechatronic Cyber-Physical Systems. In *Journal of Mechanical Design*, 2023. [Link](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/doi/10.1115/1.4056807/1156489/Towards-a-Holistic-and-Functional-Model-Based).
-4. **G. Höpfner, G. Jacobs, T. Zerwas, I. Drave, J. Berroth, C. Guist, B. Rumpe and J. Kohl**: Model-based design workflows for cyber-physical systems applied to an electric-mechanical coolant pump. In *IOP Conference Series: Materials Science and Engineering*, volume 1097, page 012004. IOP Publishing, 2021. [Link](assets/docs/2021%20Model-Based%20Design%20Workflows%20for%20Cyber-Physical%20Systems%20Applied%20to%20an%20Electric-Mechanical%20Coolant%20Pump.pdf).
-5. **T. Zerwas, G. Jacobs, K. Spütz, G. Höpfner, I. Drave, J. Berroth, C. Guist, C. Konrad, B. Rumpe and J. Kohl**: Mechanical concept development using principle solution models. In *IOP Conference Series: Materials Science and Engineering*, volume 1097, page 012001. IOP Publishing, 2021. [Link](assets/docs/2021%20Mechanical%20concept%20development%20using%20principle%20solution%20models.pdf).
-6. **I. Drave, B. Rumpe, A. Wortmann, J. Berroth, G. Hoepfner, G. Jacobs, K. Spuetz, T. Zerwas, C. Guist and J. Kohl**: Modeling mechanical functional architectures in SysML. In *Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems*, pages 79–89, 2020. [Link](assets/docs/2020%20Modeling-Mechanical-Functional-Architectures-in-SysML.pdf).
-7. **I. Krüger, M. Menarini, F. Seracini, M. Fuchs and J. Kohl**: Improving the development process for automotive diagnostics. In *2012 International Conference on Software and System Process (ICSSP)*, pages 63–67. IEEE, 2012. [Link](assets/docs/2012%20Improving%20Development%20Process%20for%20Automotive%20Diagnostics.pdf).
-8. **J. Kohl**: Effiziente Diagnose von verteilten Funktionen automobiler Steuergeräte. *PhD thesis, Technische Universität München*, 2012. [Link](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf).
-9. **J. Kohl, A. Kotucz, J. Prenninger, A. Dorneich and S. Meinzer**: Using multivariate split analysis for an improved maintenance of automotive diagnosis functions. In *15th European Conference on Software Maintenance and Reengineering*, pages 305–308. IEEE, 2011. [Link](assets/docs/2011%20Using%20multivariate%20split%20analysis%20for%20an%20improved%20maintenance%20of%20automotive%20diagnosis%20functions.pdf).
-10. **J. Kohl and A. Bauer**: Role-based diagnosis for distributed vehicle functions. In *Proceedings of the 21st International Workshop on the Principles of Diagnosis (DX)*, 2010. [Link](assets/docs/2010%20Role-Based%20Diagnosis%20for%20Distributed%20Vehicle%20Functions.pdf).
+2. **I. Drave, B. Rumpe, A. Wortmann, J. Berroth, G. Hoepfner, G. Jacobs, K. Spuetz, T. Zerwas, C. Guist and J. Kohl**: Modeling mechanical functional architectures in SysML. In *Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems*, pages 79–89, 2020. [Link](assets/docs/2020%20Modeling-Mechanical-Functional-Architectures-in-SysML.pdf).
+3. **J. Wildgruber, J. Kohl, T. Bindel, L. Gloger, T. Takher, O. Kruse, H. Vu, A. Krisnan, S. Saxena, K. Robins**: Innovating at speed: BMW's Generative AI solution for cloud incident analysis, 2025. [Link](https://aws.amazon.com/blogs/machine-learning/innovating-at-speed-bmws-generative-ai-solution-for-cloud-incident-analysis/).
 
 ### Non-peer reviewed publications
 1. **M. Menzel, J. Kohl**: BMW uses Vertex AI to automate building, optimization and evaluation of automotive small-language-models (SLMs), 2025. In publication.
@@ -133,8 +110,8 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 6. **J. Kohl, B. Jones, C. Müller, D. Engelhardt, L. Zinovyeva, N. Castro, S. Saxena, S. Khodjaev**: BMW Group develops a GenAI assistant to accelerate infrastructure optimization on AWS, 2024. [AWS Blog](https://aws.amazon.com/de/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/).
 7. **J. Kohl, B. Jones, C. Müller, D. Engelhardt, M. Arrais, S. Kallin**: How BMW Group use automation to achieve end-to-end compliance at scale on AWS, 2024. [AWS Blog](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/).
 8. **N. Olivain, P. Tiefenbacher and J. Kohl**: Bayesian structural learning for an improved diagnosis of cyber-physical systems, *arXiv preprint arXiv:2104.00987*, 2021. [arXiv](https://arxiv.org/abs/2104.00987).
-</details>
 
+</details>
 
 ---
 
@@ -142,15 +119,8 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 <a id="-public-talks"></a>
 <br>
 
-
-
 <details>
-
-<summary>
-
-<b>Selected public talks</b>
-
-</summary>
+<summary><b>Selected public talks</b></summary>
 
 1. **J. Kohl**: Automated structural testing of LLM-based agents, Held at *Google 3 Minutes of AI IRL München*, 2025.
 2. **A. Krishnan, J. Kohl**: Accelerated Root Cause Analysis at BMW with Amazon Bedrock Agents. *AWS Deep Dive Days Berlin 2025*.
@@ -172,7 +142,6 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 <a id="-patents"></a>
 <br>
 
-
 1. **A. Ganser, J. Kohl**: Method and System for Migrating Software between cloud systems, 2025. Link: [German patent library DPMA](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020241132183).
 2. **P. Tiefenbacher, T. Billinger, J. Kohl**: Method for operating a motor vehicle comprising an internal combustion engine, control unit and motor vehicle, 2021. Link: [German patent library DPMA](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020211139821).
 3. **C. Guist, J. Kohl**: Method for providing a component using additive manufacturing, 2019. Link: [German patent library DPMA](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020191344468).
@@ -180,7 +149,6 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 *Note: 14 additional GenAI patents pending.*
 
 ---
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jens-kohl/">LinkedIn</a>
