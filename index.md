@@ -1,8 +1,8 @@
 ---
-title:""
+title: Selected Work | Jens Kohl, PhD
 layout: default
 ---
-# Selected Work | Jens Kohl, PhD
+
 ## Building large-scale AI agents and ML solutions at BMW Group
 
 This page provides deeper technical context on selected AI, GenAI, and cloud projects I’ve led and contributed to.
