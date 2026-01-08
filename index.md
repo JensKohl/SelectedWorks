@@ -182,14 +182,9 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 
 *Note: 14 additional GenAI patents pending.*
 
-<br>
 
-
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jens-kohl/">LinkedIn</a>
-  &nbsp; • &nbsp;
+<div style="text-align:center; margin-top:3em; border-top:1px solid #ccc; padding-top:1em;">
+  <a href="https://www.linkedin.com/in/jens-kohl/" target="_blank">LinkedIn</a>
+  &nbsp;•&nbsp;
   <a href="mailto:jens.kohl@gmx.de">Email</a>
-</p>
+</div>
