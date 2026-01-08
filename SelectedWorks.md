@@ -148,6 +148,6 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 
 ---
 <p align="center">
-  <a href="https://www.linkedin.com/in/jens-kohl/">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/jens-kohl/">LinkedIn</a> •
   <a href="mailto:jens.kohl@gmx.de">Email</a>
 </p>
