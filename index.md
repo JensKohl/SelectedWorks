@@ -134,16 +134,20 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 7. **J. Kohl, B. Jones, C. Müller, D. Engelhardt, M. Arrais, S. Kallin**: How BMW Group use automation to achieve end-to-end compliance at scale on AWS, 2024. [AWS Blog](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/).
 8. **N. Olivain, P. Tiefenbacher and J. Kohl**: Bayesian structural learning for an improved diagnosis of cyber-physical systems, *arXiv preprint arXiv:2104.00987*, 2021. [arXiv](https://arxiv.org/abs/2104.00987).
 
-<br>
 </div>
 </details>
 
-
 <br>
+
+
+
 
 ## 🎤 Public Talks
 <a id="-public-talks"></a>
-<br>
+
+1. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. *AWS re:invent 2023*. [Video](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
+2. **J. Kohl**: Scaling end-2-end cloud governance. *AWS re:invent 2023*. [Video](https://www.youtube.com/watch?v=nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332).
+3. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. *AWS re:invent 2022*. [Video](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
 
 <details>
 <summary><b>Selected public talks</b>
@@ -162,12 +166,13 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 10. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. *AWS re:invent 2022*. [Video](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
 11. **J. Kohl**: Vision for Engineering Workplace 2025. *4th International IPS Cable Simulation Conference 2019*.
 
-<br>
 </div>
 </details>
 
----
 <br>
+
+
+
 ## 📜 Patents
 <a id="-patents"></a>
 
@@ -178,6 +183,8 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 *Note: 14 additional GenAI patents pending.*
 
 <br>
+
+
 
 ---
 
