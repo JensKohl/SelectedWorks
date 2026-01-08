@@ -1,0 +1,5 @@
+# GitHub Pages Jekyll config
+title: ""                # hides default site title
+theme: minima            # simple built-in theme
+markdown: kramdown
+permalink: /:path/       # keeps URL clean
