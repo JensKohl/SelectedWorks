@@ -1,5 +1,5 @@
 ---
-title: Selected Work | Jens Kohl, PhD
+title: Selected Work | Dr. Jens Kohl
 layout: default
 ---
 
@@ -33,7 +33,9 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 <a id="structural-testing-for-llm-based-agents"></a>
 ### Structural testing for LLM-based agents
 **2025** | Publication: [**IEEE Paper**](assets/docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf), Source code: [**GitHub Repo**](https://github.com/awslabs/generative-ai-toolkit)
-> Framework enabling unit- and integration-level testing of LLM-based agents beyond acceptance tests. Combining OpenTelemetry-based tracing with automated verification and mocking of agent components (including LLM) to enable software engineering best practices (TDD, Regression testing) for GenAI. **I ideated the overall approach and contributed to the core implementation.**
+> Framework enabling unit- and integration-level testing of LLM-based agents beyond acceptance tests. 
+Combines OpenTelemetry-based tracing, automated verification and component mocking (including LLM) to enable software engineering best practices (TDD, Regression testing) for GenAI. 
+**I ideated the overall approach and contributed to the core implementation.**
 
 <a id="generative-ai-toolkit"></a>
 ### Generative AI toolkit
