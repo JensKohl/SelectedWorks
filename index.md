@@ -12,7 +12,7 @@ This page provides deeper technical context on selected AI, GenAI, and cloud pro
 
 I am an engineering leader driving cloud platforms and large-scale AI/GenAI and ML systems. I have over two decades of industry experience, including more than a decade leading cross-functional teams on high-impact AI, cloud, and strategic initiatives. At **BMW Group**, the machine learning teams I built and led developed features and models interacting with **millions of vehicles**.
 
-My career has evolved from writing **real-time embedded C++** for Superbike racing teams to architecting **enterprise-scale Generative AI** solutions. Currently, I lead teams building **LLM-based agents** at the BMW Group, using GenAI to optimize developer productivity and the Connected Vehicle backend serving **23M vehicles**. I combine hands-on system design with end-to-end technical ownership.
+My career has evolved from writing **real-time embedded C++** for the BMW Superbike racing team to architecting **enterprise-scale Generative AI** solutions. Currently, I lead teams building **LLM-based agents** at the BMW Group, using GenAI to optimize developer productivity and the Connected Vehicle backend serving **23M vehicles**. I combine hands-on system design with end-to-end technical ownership.
 
 I also enjoy teaching a Master’s course in **Analytics and AI** for economics students at <a href="https://www.hs-fresenius.com/location/munich/">Fresenius University Munich</a>.
 
@@ -23,7 +23,6 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 | :--- | :--- | :--- |
 | **Innovation Strategy** | [**Structural testing of LLM-based agents**](#structural-testing-for-llm-based-agents)<br>One of the first frameworks enabling unit- and integration-level testing of LLM-based agents, adopted within a BMW GenAI platform.<br>Publication: [IEEE Paper](assets/docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf) \| Source: [GitHub](https://github.com/awslabs/generative-ai-toolkit) | [**GenAI cloud optimization bot**](#generative-ai-based-cloud-assistant)<br>Optimizing cloud accounts at scale via LLM-based multi-agent system.<br>Video: [re:Invent Talk](https://youtu.be/1Lat8dP7Eq0?si=V6DHfae2EGjnYsGt&t=2458) \| Publication: [AWS blog](https://aws.amazon.com/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/) \| Additional reach: [Facebook (~2M views)](https://www.facebook.com/amazonwebservices/videos/1126783061768882) |
 | **Platform Engineering** | [**Generative AI toolkit**](#generative-ai-toolkit)<br>Lead architect for open-source LLM lifecycle automation.<br>Publication: [arXiv](https://arxiv.org/abs/2412.14215) \| Source: [GitHub](https://github.com/awslabs/generative-ai-toolkit) | [**Scaling end-to-end cloud governance**](#scaling-cloud-governance)<br>Automating compliance for a cloud backend for 23M vehicles with 1,300+ services.<br>Publication: [AWS Blog](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/)|
-
 
 
 
