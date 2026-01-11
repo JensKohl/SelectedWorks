@@ -180,7 +180,7 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 2. **P. Tiefenbacher, T. Billinger, J. Kohl**: Method for operating a motor vehicle comprising an internal combustion engine, control unit and motor vehicle, 2021. Link: [German patent library DPMA](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020211139821).
 3. **C. Guist, J. Kohl**: Method for providing a component using additive manufacturing, 2019. Link: [German patent library DPMA](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020191344468).
 
-*Note: 14 additional GenAI patents pending.*
+*Note: 14 additional AI and GenAI patents pending.*
 
 
 <div style="text-align:center; margin-top:3em; border-top:1px solid #ccc; padding-top:1em;">
