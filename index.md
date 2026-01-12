@@ -1,6 +1,7 @@
 ---
 title: Selected Work | Dr. Jens Kohl
 layout: default
+show_footer: true
 ---
 
 ## Building large-scale AI agents and ML solutions at BMW Group
@@ -182,9 +183,8 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 
 *Note: 14 additional AI and GenAI patents pending.*
 
-
-<div style="text-align:center; margin-top:3em; border-top:1px solid #ccc; padding-top:1em;">
+<footer style="text-align:center; margin-top:3em; border-top:1px solid #ccc; padding-top:1em;">
   <a href="https://www.linkedin.com/in/jens-kohl/" target="_blank">LinkedIn</a>
   &nbsp;•&nbsp;
   <a href="mailto:jens.kohl@gmx.de">Email</a>
-</div>
+</footer>
