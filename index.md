@@ -1,7 +1,6 @@
 ---
 title: Selected Work | Dr. Jens Kohl
 layout: default
-show_footer: true
 ---
 
 ## Building large-scale AI agents and ML solutions at BMW Group
@@ -182,9 +181,3 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 3. **C. Guist, J. Kohl**: Method for providing a component using additive manufacturing, 2019. Link: [German patent library DPMA](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020191344468).
 
 *Note: 14 additional AI and GenAI patents pending.*
-
-<footer style="text-align:center; margin-top:3em; border-top:1px solid #ccc; padding-top:1em;">
-  <a href="https://www.linkedin.com/in/jens-kohl/" target="_blank">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:jens.kohl@gmx.de">Email</a>
-</footer>
