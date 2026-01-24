@@ -5,12 +5,12 @@ layout: default
 
 ## Building large-scale AI agents and ML solutions at BMW Group
 
-This page provides deeper technical context on selected AI, GenAI, and cloud projects I’ve led and contributed to.
+This page provides deeper technical context on selected AI, Generative AI, and cloud projects I’ve led and contributed to.
 
 ## About me
 
 
-I am an engineering leader driving cloud platforms and large-scale AI/GenAI and ML systems. I have over two decades of industry experience, including more than a decade leading cross-functional teams on high-impact AI, cloud, and strategic initiatives. At **BMW Group**, the machine learning teams I built and led developed features and models interacting with **millions of vehicles**.
+I am an engineering leader driving cloud platforms and large-scale AI/Generative AI and ML systems. I have over two decades of industry experience, including more than a decade leading cross-functional teams on high-impact AI, cloud, and strategic initiatives. At **BMW Group**, the machine learning teams I built and led developed features and models interacting with **millions of vehicles**.
 
 My career has evolved from writing **real-time embedded C++** for the BMW Superbike racing team to architecting **enterprise-scale Generative AI** solutions. Currently, I lead teams building **LLM-based agents** at the BMW Group, using GenAI to optimize developer productivity and the Connected Vehicle backend serving **23M vehicles**. I combine hands-on system design with end-to-end technical ownership.
 
@@ -21,8 +21,9 @@ I also enjoy teaching a Master’s course in **Analytics and AI** for economics 
 
 | **Strategic Pillar** | **Foundational AI Reliability** | **Enterprise Cloud Operations** |
 | :--- | :--- | :--- |
-| **Innovation Strategy** | [**Structural testing of LLM-based agents**](#structural-testing-for-llm-based-agents)<br>One of the first frameworks enabling unit- and integration-level testing of LLM-based agents, adopted within a BMW GenAI platform. <br>🏆 **BMW Connected Company Innovation Award (Q1 2025)** for this work.<br>Publication: [IEEE Paper](assets/docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf) \| Source: [GitHub](https://github.com/awslabs/generative-ai-toolkit) | [**GenAI cloud optimization bot**](#generative-ai-based-cloud-assistant)<br>Optimizing cloud accounts at scale via LLM-based multi-agent system.<br>Video: [re:Invent Talk](https://youtu.be/1Lat8dP7Eq0?si=V6DHfae2EGjnYsGt&t=2458) \| Publication: [AWS blog](https://aws.amazon.com/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/) \| Additional reach: [Facebook (~2M views)](https://www.facebook.com/amazonwebservices/videos/1126783061768882) |
+| **Innovation Strategy** | [**Structural testing of LLM-based agents**](#structural-testing-for-llm-based-agents)<br>One of the first frameworks enabling unit- and integration-level testing of LLM-based agents, adopted within a BMW GenAI platform. <br>🏆 **BMW Connected Company Innovation Award (Q1 2025)** for this work.<br>Publication: [IEEE Paper](assets/docs/2025%20Automated%20structural%20testing%20of%20LLM-based%20agents.pdf) \| Source: [GitHub](https://github.com/awslabs/generative-ai-toolkit) | [**GenAI cloud optimization bot**](#generative-ai-based-cloud-assistant)<br>Optimizing cloud accounts at scale via LLM-based multi-agent system.<br>Case study: [AWS Case Study](https://aws.amazon.com/solutions/case-studies/bmw-generative-ai/) \| Video: [AWS re:Invent Innovation Talk](https://youtu.be/1Lat8dP7Eq0?si=V6DHfae2EGjnYsGt&t=2458) \| Publication: [AWS blog](https://aws.amazon.com/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/) \| Additional reach: [Facebook post (~2M views)](https://www.facebook.com/amazonwebservices/videos/1126783061768882) |
 | **Platform Engineering** | [**Generative AI toolkit**](#generative-ai-toolkit)<br>Lead architect for open-source LLM lifecycle automation.<br>Publication: [arXiv](https://arxiv.org/abs/2412.14215) \| Source: [GitHub](https://github.com/awslabs/generative-ai-toolkit) | [**Scaling end-to-end cloud governance**](#scaling-cloud-governance)<br>Automating compliance for a cloud backend for 23M vehicles with 1,300+ services.<br>Publication: [AWS Blog](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/)|
+
 
 
 <a id="-selected-projects"></a>
@@ -42,16 +43,16 @@ Combines OpenTelemetry-based tracing, automated verification and component mocki
 
 <a id="generative-ai-based-cloud-assistant"></a>
 ### Cloud Optimization Bot
-**2023** | Publication: [AWS blog](https://aws.amazon.com/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/), Video: [**AWS re:invent Innovation talk 2023**](https://youtu.be/1Lat8dP7Eq0?si=V6DHfae2EGjnYsGt&t=2458), additional reach: [**Facebook (~2 M views)**](https://www.facebook.com/amazonwebservices/videos/1126783061768882)
-> One of the earliest LLM-based multi-agent systems. Built on Amazon Bedrock to optimize cloud infrastructure delivering eight-digit annual operational savings. **I ideated and co-designed the system and served as the Technical Owner leading the development.**
+**2023** | Publication: [**AWS Case Study**](https://aws.amazon.com/solutions/case-studies/bmw-generative-ai/), [**AWS blog**](https://aws.amazon.com/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/), Video: [**AWS re:Invent Innovation Talk 2023**](https://youtu.be/1Lat8dP7Eq0?si=V6DHfae2EGjnYsGt&t=2458), additional reach: [**Facebook (~2M views)**](https://www.facebook.com/amazonwebservices/videos/1126783061768882)
+> One of the earliest LLM-based multi-agent systems. Built on Amazon Bedrock to optimize cloud infrastructure, delivering eight-digit annual savings. **I ideated and co-designed the system and served as the technical owner leading the development.**
 
 <a id="scaling-cloud-governance"></a>
 ### Scaling end-to-end cloud governance
-**2023** | Publication: [**AWS Blog**](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/), Video: [**AWS re:invent 2023**](https://youtu.be/nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332), 
+**2023** | Publication: [**AWS Blog**](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/), Video: [**AWS re:Invent 2023**](https://youtu.be/nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332)
 > Automated compliance framework enforcing internal standards across hundreds of AWS accounts at scale. **I ideated the framework, co-led the project, and contributed directly to the development.**
 
 ### Proactive Care
-**2022** | Video: [**AWS re:invent 2022**](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s)
+**2022** | Video: [**AWS re:Invent 2022**](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s)
 > Led a cross-functional prototyping team delivering an end-to-end automotive diagnosis workflow at scale (1M vehicles). Later rolled out fleet-wide to 23M vehicles by BMW aftersales organization.
 
 <details>
@@ -66,7 +67,7 @@ Combines OpenTelemetry-based tracing, automated verification and component mocki
 > Designed and built an LLM-based agent with Amazon Bedrock to automate incident root-cause analysis across distributed cloud services. Reduces diagnosis time from hours to minutes with ~85% accuracy. **I ideated the solution and co-led its development.**
 
 ### Ticketron
-**2024** | Video: [**AWS re:invent 2024**](https://www.youtube.com/watch?v=ScTLkWMKfIs)
+**2024** | Video: [**AWS re:Invent 2024**](https://www.youtube.com/watch?v=ScTLkWMKfIs)
 > Streamlining defect ticket workflows using ML for duplicate detection and automated routing. Reduced manual triage effort and accelerated the software development lifecycle. **I served as the technical lead for its development and integration.**
 
 ### Headunit in the cloud (vECU)
@@ -128,7 +129,7 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 1. **M. Menzel, J. Kohl**: BMW uses Vertex AI to automate building, optimization and evaluation of automotive small-language-models (SLMs), 2025. In publication.
 2. **J. Wildgruber, J. Kohl, T. Bindel, L. Gloger, T. Takher, O. Kruse, H. Vu, A. Krisnan, S. Saxena, K. Robins**: Innovating at speed: BMW's Generative AI solution for cloud incident analysis, 2025. [AWS Blog](https://aws.amazon.com/blogs/machine-learning/innovating-at-speed-bmws-generative-ai-solution-for-cloud-incident-analysis/).
 3. **P. Altmann, A. Gross, C. Müller, J. Kohl, J. Frielinghaus, L. Mödl, S. Marzani**: How BMW is using AWS as native development target to scale and automate embedded software development, 2025. [AWS Blog](https://aws.amazon.com/de/blogs/industries/how-bmw-uses-aws-to-scale-and-automate-sdv-with-virtual-ecus/).
-4. **J. Kohl, L. Gloger, R. Costa, O. Kruse, M. Luitz, D. Katz, G. Barbeito, M. Schweier, R. French, J. Schroeder, T. Riedl, R. Perri, Y. Mostafa**: Generative AI Toolkit - a framework for increasing the quality of LLM-based applications over their whole life cycle, *arXiv preprint arXiv:2412.14215*, 2024. [arxiv](https://arxiv.org/abs/2412.14215).
+4. **J. Kohl, L. Gloger, R. Costa, O. Kruse, M. Luitz, D. Katz, G. Barbeito, M. Schweier, R. French, J. Schroeder, T. Riedl, R. Perri, Y. Mostafa**: Generative AI Toolkit - a framework for increasing the quality of LLM-based applications over their whole life cycle, *arXiv preprint arXiv:2412.14215*, 2024. [arXiv](https://arxiv.org/abs/2412.14215).
 5. **S. Kallin, S. Molau, J. Kohl, B. Jones, C. Müller**: How BMW Group migrated the BMW ConnectedDrive backend to AWS, 2024. [AWS Blog](https://aws.amazon.com/de/blogs/migration-and-modernization/accelerating-to-the-cloud-bmw-connecteddrives-migration-to-aws-and-lessons-for-the-road-ahead).
 6. **J. Kohl, B. Jones, C. Müller, D. Engelhardt, L. Zinovyeva, N. Castro, S. Saxena, S. Khodjaev**: BMW Group develops a GenAI assistant to accelerate infrastructure optimization on AWS, 2024. [AWS Blog](https://aws.amazon.com/de/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/).
 7. **J. Kohl, B. Jones, C. Müller, D. Engelhardt, M. Arrais, S. Kallin**: How BMW Group use automation to achieve end-to-end compliance at scale on AWS, 2024. [AWS Blog](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/).
@@ -145,25 +146,25 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 ## 🎤 Public Talks
 <a id="-public-talks"></a>
 
-1. **J. Kohl**: Developing a GenAI assistant to accelerate cloud infrastructure optimization. *AWS re:invent 2023*, 2023. [Video](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
-2. **J. Kohl**: Scaling end-2-end cloud governance. *AWS re:invent 2023*, 2023. [Video](https://www.youtube.com/watch?v=nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332).
-3. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. *AWS re:invent 2022*, 2022. [Video](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
+1. **J. Kohl**: Developing a GenAI assistant to accelerate cloud infrastructure optimization. *AWS re:Invent 2023*, 2023. [Video](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
+2. **J. Kohl**: Scaling end-to-end cloud governance. *AWS re:Invent 2023*, 2023. [Video](https://www.youtube.com/watch?v=nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332).
+3. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. *AWS re:Invent 2022*, 2022. [Video](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
 
 <details>
 <summary><b>Selected public talks</b>
 </summary>
 <div markdown="1">
 
-1. **J. Kohl**: Automated structural testing of LLM-based agents, Held at *Google 3 Minutes of AI IRL München*, 2025.
+1. **J. Kohl**: Automated structural testing of LLM-based agents, held at *Google 3 Minutes of AI IRL München*, 2025.
 2. **A. Krishnan, J. Kohl**: Accelerated Root Cause Analysis at BMW with Amazon Bedrock Agents. *AWS Deep Dive Days Berlin 2025*, 2025.
 3. **J. Kohl, Y. Mostafa, M. Radulescu Kober**: Evaluating and testing customer-facing Generative AI systems at scale. *AWS Deep Dive Days April 2025*, 2025.
-4. **O. Schnaack, K. Robins, J. Kohl**: BMW speeds car development with a new app for defect ticket routing, *AWS re:invent 2024*, 2024. [Video](https://www.youtube.com/watch?v=ScTLkWMKfIs).
+4. **O. Schnaack, K. Robins, J. Kohl**: BMW speeds car development with a new app for defect ticket routing, *AWS re:Invent 2024*, 2024. [Video](https://www.youtube.com/watch?v=ScTLkWMKfIs).
 5. **J. Kohl, L. Gloger, O. Kruse**: Increasing the quality of LLM-based agents by accelerating the feedback loop. *AWS Deep Dive Days October 2024*, 2024.
 6. **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. *AWS Berlin Summit 2024*, 2024.
 7. **J. Kohl, C. Müller**: BMW Group accelerates cloud optimization using Amazon Bedrock. *AWS Deep Dive Days 2024*, 2024. [Slides](https://d1ybtq23qyanx7.cloudfront.net/_assets/local/slides/GenAIDeepDive2024_SES201_BMW_Group_accelerates_cloud_optimization_using_Amazon_Bedrock.pdf).
-8. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. *AWS re:invent 2023*, 2023. [Video](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
-9. **J. Kohl**: Scaling end-2-end cloud governance. *AWS re:invent 2023*, 2023. [Video](https://www.youtube.com/watch?v=nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332).
-10. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. *AWS re:invent 2022*, 2022. [Video](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
+8. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. *AWS re:Invent 2023*, 2023. [Video](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
+9. **J. Kohl**: Scaling end-to-end cloud governance. *AWS re:Invent 2023*, 2023. [Video](https://www.youtube.com/watch?v=nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332).
+10. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. *AWS re:Invent 2022*, 2022. [Video](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
 11. **J. Kohl**: Vision for Engineering Workplace 2025. *4th International IPS Cable Simulation Conference 2019*, 2019.
 
 </div>
