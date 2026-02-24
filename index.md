@@ -10,9 +10,9 @@ This page provides deeper technical context on selected AI, Generative AI, and c
 ## About me
 
 
-I am an engineering leader driving cloud platforms and large-scale AI/Generative AI and ML systems. I have over two decades of industry experience, including more than a decade leading cross-functional teams on high-impact AI, cloud, and strategic initiatives. At **BMW Group**, the machine learning teams I built and led developed features and models interacting with **millions of vehicles**.
+I am an engineering leader driving cloud platforms and large-scale AI/Generative AI and ML systems. I have over two decades of industry experience, including more than a decade leading cross-functional teams on high-impact AI, cloud, and strategic initiatives. At the **BMW Group**, the machine learning teams I built and led developed features and models interacting with **millions of vehicles**.
 
-My career has evolved from writing **real-time embedded C++** for the BMW Superbike racing team to architecting **enterprise-scale Generative AI** solutions. Currently, I lead teams building **LLM-based agents** at the BMW Group, using GenAI to optimize developer productivity and the Connected Vehicle backend serving **23M vehicles**. I combine hands-on system design with end-to-end technical ownership.
+My career has evolved from writing **real-time embedded C/C++** for the BMW Superbike racing team to architecting **enterprise-scale Generative AI** solutions. Currently, I lead teams building **LLM-based agents** at the BMW Group, using GenAI to optimize developer productivity and the Connected Vehicle backend serving **23M vehicles**. I combine hands-on system design with end-to-end technical ownership.
 
 I also enjoy teaching a Master’s course in **Analytics and AI** for economics students at <a href="https://www.hs-fresenius.com/location/munich/">Fresenius University Munich</a>.
 
