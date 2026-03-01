@@ -16,6 +16,7 @@ My career has evolved from writing **real-time embedded C/C++** for the BMW Supe
 
 I also enjoy teaching a Master’s course in **Analytics and AI** for economics students at <a href="https://www.hs-fresenius.com/location/munich/">Fresenius University Munich</a>.
 
+I enjoy teaching an introductory hands-on course on **Machine Learning, Generative AI, and LLM-based agents** at [Fresenius University Munich](https://www.hs-fresenius.com/location/munich/), which also covers **Data Science** and **Reinforcement Learning** for LLM and games ([**Course Materials & Notebooks**](https://github.com/JensKohl/Lecture_Materials_Technical_Applications_Data_Management)).
 
 ## 🏆 Featured Highlights
 
@@ -79,9 +80,10 @@ Combines OpenTelemetry-based tracing, automated verification and component mocki
 **2023** | Publication: [**AWS Blog**](https://aws.amazon.com/de/blogs/migration-and-modernization/accelerating-to-the-cloud-bmw-connecteddrives-migration-to-aws-and-lessons-for-the-road-ahead/)
 > One of the largest and earliest successful migrations of an automotive OEM to the cloud. For two years, **I led the team responsible for cloud architecture, architectural standards, and the migration initiative** covering over 1,300 microservices.
 
-### Lecturer, Artificial Intelligence
-**2020 – Present** | [**Course Materials**](https://github.com/JensKohl/Lecture-Technical_Applications_Data_Management-Slides_and_Notebooks)
-> Master’s course for economic students, bridging the gap between business strategy and state-of-the-art AI/LLM implementation.
+### Lecturer, Artificial Intelligence & Data Science
+**2020 – Present** | [**Course Materials & Notebooks**](https://github.com/JensKohl/Lecture_Materials_Technical_Applications_Data_Management)
+> Introductory hands-on Master’s course for economics students. Curriculum spans **Data Science** fundamentals, **Classical Machine Learning**, **Generative AI** for text and images, building **LLM-based agents** and exploring **Reinforcement Learning** for LLM and games.
+
 
 ### Superbike World Championship Racing Team
 **2005**
