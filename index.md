@@ -1,5 +1,5 @@
 ---
-title: Selected Work | Dr. Jens Kohl
+title: Selected Works | Dr. Jens Kohl
 layout: default
 ---
 
