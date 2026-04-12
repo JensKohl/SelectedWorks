@@ -14,6 +14,8 @@ I am an engineering leader driving cloud platforms and large-scale AI/Generative
 
 My career has evolved from writing **real-time embedded C/C++** for the BMW Superbike racing team to architecting **enterprise-scale Generative AI** solutions. Currently, I lead teams building **LLM-based agents** at the BMW Group, using GenAI to optimize developer productivity and the Connected Vehicle backend serving **23M vehicles**. I combine hands-on system design with end-to-end technical ownership.
 
+Additionally, I currently hold 9 professional certifications across AWS, Google Cloud and agile leadership.
+
 I also enjoy teaching a Master’s course in **Analytics and AI** for economics students at <a href="https://www.hs-fresenius.com/location/munich/">Fresenius University Munich</a>.
 
 I enjoy teaching an introductory hands-on course on **Machine Learning, Generative AI, and LLM-based agents** at [Fresenius University Munich](https://www.hs-fresenius.com/location/munich/), which also covers **Data Science** and **Reinforcement Learning** for LLM and games ([**Course Materials & Notebooks**](https://github.com/JensKohl/Lecture_Materials_Technical_Applications_Data_Management)).
@@ -92,6 +94,38 @@ Combines OpenTelemetry-based tracing, automated verification and component mocki
 ### Software BMW S85 Engine for BMW M5 (E60/E61)
 **2004**
 > Developed a code-signing tool in C/C++ for the M5 ECU and designed a Hardware-in-the-Loop (HiL) test unit to validate electronic throttle control reliability. **I was a tool developer in this team.**
+
+</div>
+</details>
+
+<br>
+
+## 📜 Professional Certifications
+<a id="-certifications"></a>
+
+I hold several certifications across machine learning, cloud development, and agile methodologies.
+
+<details>
+<summary><b>View all certifications</b></summary>
+<div markdown="1">
+
+#### Amazon Web Services (AWS)
+* **AWS Certified Machine Learning – Specialty**
+* **AWS Certified Data Analytics – Specialty**
+* **AWS Certified Data Engineer – Associate**
+* **AWS Certified Developer – Associate**
+
+#### Google Cloud (GCP)
+* **Professional Data Engineer**
+* **Professional Machine Learning Engineer**
+* **Generative AI Leader**
+
+
+#### Agile & Leadership
+* **Professional Scrum Master I (PSM I)**
+* **Professional Scrum Product Owner I (PSPO I)**
+
+*All credentials can be verified on my [**Credly Profile**](https://www.credly.com/users/jens-kohl/badges).*
 
 </div>
 </details>
