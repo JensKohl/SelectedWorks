@@ -10,15 +10,13 @@ This page provides deeper technical context on selected AI, Generative AI, and c
 ## About me
 
 
-I am an engineering leader driving cloud platforms and large-scale AI/Generative AI and ML systems. I have over two decades of industry experience, including more than a decade leading cross-functional teams on high-impact AI, cloud, and strategic initiatives. At the **BMW Group**, the machine learning teams I built and led developed features and models interacting with **millions of vehicles**.
+I am an engineering leader driving cloud platforms and large-scale AI and Generative AI systems. I have over two decades of industry experience, including more than a decade leading cross-functional teams on high-impact AI, cloud, and strategic initiatives. At the **BMW Group**, the machine learning teams I built and led developed features and models interacting with **millions of vehicles**.
 
-My career has evolved from writing **real-time embedded C/C++** for the BMW Superbike racing team to architecting **enterprise-scale Generative AI** solutions. Currently, I lead teams building **LLM-based agents** at the BMW Group, using GenAI to optimize developer productivity and the Connected Vehicle backend serving **23M vehicles**. I combine hands-on system design with end-to-end technical ownership.
+My career has evolved from writing **real-time embedded C/C++** for the BMW Superbike racing team to architecting **enterprise-scale Generative AI** solutions. Currently, I lead teams building **LLM-based agents** at the BMW Group, using GenAI to optimize productivity for hundreds of software developers as well as the Connected Vehicle backend serving **23M vehicles**. I combine hands-on system design with end-to-end technical ownership.
+
+I also enjoy teaching an introductory hands-on course on **Machine Learning, Generative AI, and LLM-based agents** at [Fresenius University Munich](https://www.hs-fresenius.com/location/munich/), which also covers **Data Science** and **Reinforcement Learning** for LLM and games ([**Course Materials & Notebooks**](https://github.com/JensKohl/Lecture_Materials_Technical_Applications_Data_Management)).
 
 Additionally, I currently hold 9 professional certifications across AWS, Google Cloud and agile leadership.
-
-I also enjoy teaching a Master’s course in **Analytics and AI** for economics students at <a href="https://www.hs-fresenius.com/location/munich/">Fresenius University Munich</a>.
-
-I enjoy teaching an introductory hands-on course on **Machine Learning, Generative AI, and LLM-based agents** at [Fresenius University Munich](https://www.hs-fresenius.com/location/munich/), which also covers **Data Science** and **Reinforcement Learning** for LLM and games ([**Course Materials & Notebooks**](https://github.com/JensKohl/Lecture_Materials_Technical_Applications_Data_Management)).
 
 ## 🏆 Featured Highlights
 
@@ -176,9 +174,6 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 
 <br>
 
-
-
-
 ## 🎤 Public Talks
 <a id="-public-talks"></a>
 
@@ -191,18 +186,21 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 </summary>
 <div markdown="1">
 
-1. **J. Kohl**: Sports and artificial intelligence, held at *Professional Darts Corporation (PDC) Europe Poker Charity Turnier 2026*, 2026. [Link](assets/docs/2026%20PDC%20Europe%20Darts%20Charity%20-%20Sports%20und%20AI.pdf).
-2. **J. Kohl**: Automated structural testing of LLM-based agents, held at *Google 3 Minutes of AI IRL München*, 2025.
-3. **A. Krishnan, J. Kohl**: Accelerated Root Cause Analysis at BMW with Amazon Bedrock Agents. *AWS Deep Dive Days Berlin 2025*, 2025.
-4. **J. Kohl, Y. Mostafa, M. Radulescu Kober**: Evaluating and testing customer-facing Generative AI systems at scale. *AWS Deep Dive Days April 2025*, 2025.
-5. **O. Schnaack, K. Robins, J. Kohl**: BMW speeds car development with a new app for defect ticket routing, *AWS re:Invent 2024*, 2024. [Video](https://www.youtube.com/watch?v=ScTLkWMKfIs).
-6. **J. Kohl, L. Gloger, O. Kruse**: Increasing the quality of LLM-based agents by accelerating the feedback loop. *AWS Deep Dive Days October 2024*, 2024.
-7. **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. *AWS Berlin Summit 2024*, 2024.
-8. **J. Kohl, C. Müller**: BMW Group accelerates cloud optimization using Amazon Bedrock. *AWS Deep Dive Days 2024*, 2024. [Slides](https://d1ybtq23qyanx7.cloudfront.net/_assets/local/slides/GenAIDeepDive2024_SES201_BMW_Group_accelerates_cloud_optimization_using_Amazon_Bedrock.pdf).
-9. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. *AWS re:Invent 2023*, 2023. [Video](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
-10. **J. Kohl**: Scaling end-to-end cloud governance. *AWS re:Invent 2023*, 2023. [Video](https://www.youtube.com/watch?v=nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332).
-11. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. *AWS re:Invent 2022*, 2022. [Video](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
-12. **J. Kohl**: Vision for Engineering Workplace 2025. *4th International IPS Cable Simulation Conference 2019*, 2019.
+1. **J. Kohl**: Optimizing automotive software development workflows with AI/ GenAI, to be held at *Move MOBILITY RE-IMAGINED London 2026*.
+2. **J. Kohl, O. Kruse**: Automated Structural/ White-Box Testing of LLM-Based Agents, to be held at *EuroSTAR 2026*.
+3. **J. Kohl**: Optimizing automotive software development workflows with AI/ GenAI, to be held at *European AI and software-defined vehicle summit 2026*.
+4. **J. Kohl**: Sports and artificial intelligence, held at *Professional Darts Corporation (PDC) Europe Poker Charity Turnier 2026*, 2026. [Slides](assets/docs/2026%20PDC%20Europe%20Darts%20Charity%20-%20Sports%20und%20AI.pdf).
+5. **J. Kohl**: Automated structural testing of LLM-based agents, held at *Google 3 Minutes of AI IRL München*, 2025.
+6. **A. Krishnan, J. Kohl**: Accelerated Root Cause Analysis at BMW with Amazon Bedrock Agents. *AWS Deep Dive Days Berlin 2025*, 2025.
+7. **J. Kohl, Y. Mostafa, M. Radulescu Kober**: Evaluating and testing customer-facing Generative AI systems at scale. *AWS Deep Dive Days April 2025*, 2025.
+8. **O. Schnaack, K. Robins, J. Kohl**: BMW speeds car development with a new app for defect ticket routing, *AWS re:Invent 2024*, 2024. [Video](https://www.youtube.com/watch?v=ScTLkWMKfIs).
+9. **J. Kohl, L. Gloger, O. Kruse**: Increasing the quality of LLM-based agents by accelerating the feedback loop. *AWS Deep Dive Days October 2024*, 2024.
+10. **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. *AWS Berlin Summit 2024*, 2024.
+11. **J. Kohl, C. Müller**: BMW Group accelerates cloud optimization using Amazon Bedrock. *AWS Deep Dive Days 2024*, 2024. [Slides](https://d1ybtq23qyanx7.cloudfront.net/_assets/local/slides/GenAIDeepDive2024_SES201_BMW_Group_accelerates_cloud_optimization_using_Amazon_Bedrock.pdf).
+12. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. *AWS re:Invent 2023*, 2023. [Video](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
+13. **J. Kohl**: Scaling end-to-end cloud governance. *AWS re:Invent 2023*, 2023. [Video](https://www.youtube.com/watch?v=nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332).
+14. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. *AWS re:Invent 2022*, 2022. [Video](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
+15. **J. Kohl**: Vision for Engineering Workplace 2025. *4th International IPS Cable Simulation Conference 2019*, 2019.
 
 </div>
 </details>
