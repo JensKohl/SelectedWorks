@@ -9,7 +9,6 @@ This page provides deeper technical context on selected AI, Generative AI, and c
 
 ## About me
 
-
 I am an engineering leader driving cloud platforms and large-scale AI and Generative AI systems. I have over two decades of industry experience, including more than a decade leading cross-functional teams on high-impact AI, cloud, and strategic initiatives. At the **BMW Group**, the machine learning teams I built and led developed features and models interacting with **millions of vehicles**.
 
 My career has evolved from writing **real-time embedded C/C++** for the BMW Superbike racing team to architecting **enterprise-scale Generative AI** solutions. Currently, I lead teams building **LLM-based agents** at the BMW Group, using GenAI to optimize productivity for hundreds of software developers as well as the Connected Vehicle backend serving **23M vehicles**. I combine hands-on system design with end-to-end technical ownership.
@@ -26,7 +25,6 @@ Additionally, I currently hold 9 professional certifications across AWS, Google 
 | **Platform Engineering** | [**Generative AI toolkit**](#generative-ai-toolkit)<br>Lead architect for open-source LLM lifecycle automation.<br>Publication: [arXiv](https://arxiv.org/abs/2412.14215) \| Source: [GitHub](https://github.com/awslabs/generative-ai-toolkit) | [**Scaling end-to-end cloud governance**](#scaling-cloud-governance)<br>Automating compliance for a cloud backend for 23M vehicles with 1,300+ services.<br>Publication: [AWS Blog](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/)|
 
 
-
 <a id="-selected-projects"></a>
 ## 🛠 Selected Projects
 
@@ -34,7 +32,7 @@ Additionally, I currently hold 9 professional certifications across AWS, Google 
 ### Structural testing for LLM-based agents
 **2025** | Publication: [**IEEE**](https://ieeexplore.ieee.org/abstract/document/11401679) \| Open access: [**arXiv**](https://arxiv.org/abs/2601.18827) \| Source code: [**GitHub Repo**](https://github.com/awslabs/generative-ai-toolkit)
 > Framework enabling unit- and integration-level testing of LLM-based agents beyond acceptance tests. 
-Combines OpenTelemetry-based tracing, automated verification and component mocking (including LLM) to enable software engineering best practices (TDD, Regression testing) for GenAI. 
+Combines OpenTelemetry-based tracing, automated verification and component mocking (including LLM) to enable software engineering best practices (TDD, Regression testing) for GenAI.
 **I ideated the overall approach and contributed to the core implementation.**
 
 <a id="generative-ai-toolkit"></a>
@@ -75,7 +73,6 @@ Combines OpenTelemetry-based tracing, automated verification and component mocki
 **2023** | Publication: [**AWS Blog**](https://aws.amazon.com/de/blogs/industries/how-bmw-uses-aws-to-scale-and-automate-sdv-with-virtual-ecus/)
 > Virtualization of automotive Android control units on cloud instances to scale testing for 20M+ vehicles. **I led the responsible BMW team, providing strategic guidance and architectural oversight.**
 
-
 ### Cloud migration of BMW ConnectedDrive
 **2023** | Publication: [**AWS Blog**](https://aws.amazon.com/de/blogs/migration-and-modernization/accelerating-to-the-cloud-bmw-connecteddrives-migration-to-aws-and-lessons-for-the-road-ahead/)
 > One of the largest and earliest successful migrations of an automotive OEM to the cloud. For two years, **I led the team responsible for cloud architecture, architectural standards, and the migration initiative** covering over 1,300 microservices.
@@ -83,7 +80,6 @@ Combines OpenTelemetry-based tracing, automated verification and component mocki
 ### Lecturer, Artificial Intelligence & Data Science
 **2020 – Present** | [**Course Materials & Notebooks**](https://github.com/JensKohl/Lecture_Materials_Technical_Applications_Data_Management)
 > Introductory hands-on Master’s course for economics students. Curriculum spans **Data Science** fundamentals, **Classical Machine Learning**, **Generative AI** for text and images, building **LLM-based agents** and exploring **Reinforcement Learning** for LLM and games.
-
 
 ### Superbike World Championship Racing Team
 **2005**
@@ -118,7 +114,6 @@ I hold several certifications across machine learning, cloud development, and ag
 * **Professional Machine Learning Engineer**
 * **Generative AI Leader**
 
-
 #### Agile & Leadership
 * **Professional Scrum Master I (PSM I)**
 * **Professional Scrum Product Owner I (PSPO I)**
@@ -131,12 +126,10 @@ I hold several certifications across machine learning, cloud development, and ag
 <br>
 
 
-
 ## 📝 Publications
 <a id="-selected-publications"></a>
 
 You can also check my [Google Scholar account](https://scholar.google.com/citations?user=M3vi8zEAAAAJ&hl=de).
-
 
 1. **J. Kohl, O. Kruse, Y. Mostafa, A. Luckow, K. Schroer, T. Riedl, R. French, D. Katz, M. Luitz, T. Takher, K. Friedl, C. Laurent-Winter**: Automated structural testing of LLM-based agents: methods, framework, and case studies. *Proceedings of the IEEE Big Data Conference 2025*, pp. 1847-1856, 2025. [IEEE](https://ieeexplore.ieee.org/abstract/document/11401679) \| [arXiv](https://arxiv.org/abs/2601.18827).
 2. **I. Drave, B. Rumpe, A. Wortmann, J. Berroth, G. Hoepfner, G. Jacobs, K. Spuetz, T. Zerwas, C. Guist and J. Kohl**: Modeling mechanical functional architectures in SysML. In *Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems*, pages 79–89, 2020. [Link](assets/docs/2020%20Modeling-Mechanical-Functional-Architectures-in-SysML.pdf).
@@ -186,28 +179,27 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 </summary>
 <div markdown="1">
 
-1. **J. Kohl**: Optimizing automotive software development workflows with AI/ GenAI, to be held at *Move MOBILITY RE-IMAGINED London 2026*.
-2. **J. Kohl, O. Kruse**: Automated Structural/ White-Box Testing of LLM-Based Agents, to be held at *EuroSTAR 2026*.
-3. **J. Kohl**: Optimizing automotive software development workflows with AI/ GenAI, to be held at *European AI and software-defined vehicle summit 2026*.
-4. **J. Kohl**: Sports and artificial intelligence, held at *Professional Darts Corporation (PDC) Europe Poker Charity Turnier 2026*, 2026. [Slides](assets/docs/2026%20PDC%20Europe%20Darts%20Charity%20-%20Sports%20und%20AI.pdf).
-5. **J. Kohl**: Automated structural testing of LLM-based agents, held at *Google 3 Minutes of AI IRL München*, 2025.
-6. **A. Krishnan, J. Kohl**: Accelerated Root Cause Analysis at BMW with Amazon Bedrock Agents. *AWS Deep Dive Days Berlin 2025*, 2025.
-7. **J. Kohl, Y. Mostafa, M. Radulescu Kober**: Evaluating and testing customer-facing Generative AI systems at scale. *AWS Deep Dive Days April 2025*, 2025.
+1. **J. Kohl**: Optimizing automotive software development workflows with AI/ GenAI. *Move MOBILITY RE-IMAGINED 2026*, 2026.
+2. **J. Kohl, O. Kruse**: Automated Structural/ White-Box Testing of LLM-Based Agents. *EuroSTAR 2026*, 2026.
+3. **J. Kohl**: Optimizing automotive software development workflows with AI/ GenAI. *European AI and software-defined vehicle summit 2026*, 2026.
+4. **J. Kohl**: Sports and artificial intelligence. *Professional Darts Corporation (PDC) Europe Poker Charity Turnier 2026*, 2026. [Slides](assets/docs/2026%20PDC%20Europe%20Darts%20Charity%20-%20Sports%20und%20AI.pdf).
+5. **J. Kohl**: Automated structural testing of LLM-based agents. *Google 3 Minutes of AI IRL*, 2025.
+6. **A. Krishnan, J. Kohl**: Accelerated Root Cause Analysis at BMW with Amazon Bedrock Agents. *AWS Deep Dive Days 2025*, 2025.
+7. **J. Kohl, Y. Mostafa, M. Radulescu Kober**: Evaluating and testing customer-facing Generative AI systems at scale. *AWS Deep Dive Days 2025*, 2025.
 8. **O. Schnaack, K. Robins, J. Kohl**: BMW speeds car development with a new app for defect ticket routing, *AWS re:Invent 2024*, 2024. [Video](https://www.youtube.com/watch?v=ScTLkWMKfIs).
 9. **J. Kohl, L. Gloger, O. Kruse**: Increasing the quality of LLM-based agents by accelerating the feedback loop. *AWS Deep Dive Days October 2024*, 2024.
-10. **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. *AWS Berlin Summit 2024*, 2024.
-11. **J. Kohl, C. Müller**: BMW Group accelerates cloud optimization using Amazon Bedrock. *AWS Deep Dive Days 2024*, 2024. [Slides](https://d1ybtq23qyanx7.cloudfront.net/_assets/local/slides/GenAIDeepDive2024_SES201_BMW_Group_accelerates_cloud_optimization_using_Amazon_Bedrock.pdf).
-12. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. *AWS re:Invent 2023*, 2023. [Video](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
-13. **J. Kohl**: Scaling end-to-end cloud governance. *AWS re:Invent 2023*, 2023. [Video](https://www.youtube.com/watch?v=nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332).
-14. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. *AWS re:Invent 2022*, 2022. [Video](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
-15. **J. Kohl**: Vision for Engineering Workplace 2025. *4th International IPS Cable Simulation Conference 2019*, 2019.
+10. **J. Kohl, M. Tava**: Using Generative AI To Optimize Cloud Rooms Performance and Costs. *InfoQ Dev Summit*, 2024.
+11. **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. *AWS Summit 2024*, 2024.
+12. **J. Kohl, C. Müller**: BMW Group accelerates cloud optimization using Amazon Bedrock. *AWS Deep Dive Days 2024*, 2024. [Slides](https://d1ybtq23qyanx7.cloudfront.net/_assets/local/slides/GenAIDeepDive2024_SES201_BMW_Group_accelerates_cloud_optimization_using_Amazon_Bedrock.pdf).
+13. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. *AWS re:Invent 2023*, 2023. [Video](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
+14. **J. Kohl**: Scaling end-to-end cloud governance. *AWS re:Invent 2023*, 2023. [Video](https://www.youtube.com/watch?v=nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332).
+15. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. *AWS re:Invent 2022*, 2022. [Video](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
+16. **J. Kohl**: Vision for Engineering Workplace 2025. *4th International IPS Cable Simulation Conference 2019*, 2019.
 
 </div>
 </details>
 
 <br>
-
-
 
 ## 📜 Patents
 <a id="-patents"></a>
