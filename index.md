@@ -180,7 +180,7 @@ You can also check my [Google Scholar account](https://scholar.google.com/citati
 <div markdown="1">
 
 1. **J. Kohl**: Optimizing automotive software development workflows with AI/ GenAI. *Move MOBILITY RE-IMAGINED 2026*, 2026.
-2. **J. Kohl, O. Kruse**: Automated Structural/ White-Box Testing of LLM-Based Agents. *EuroSTAR 2026*, 2026.
+2. **J. Kohl**: Automated Structural/ White-Box Testing of LLM-Based Agents. *EuroSTAR 2026*, 2026.
 3. **J. Kohl**: Optimizing automotive software development workflows with AI/ GenAI. *European AI and software-defined vehicle summit 2026*, 2026.
 4. **J. Kohl**: Sports and artificial intelligence. *Professional Darts Corporation (PDC) Europe Poker Charity Turnier 2026*, 2026. [Slides](assets/docs/2026%20PDC%20Europe%20Darts%20Charity%20-%20Sports%20und%20AI.pdf).
 5. **J. Kohl**: Automated structural testing of LLM-based agents. *Google 3 Minutes of AI IRL*, 2025.
